@@ -1,7 +1,5 @@
 # VideoGame_DataAnalysis
 
-# Big Data Analysis & Visualization using Apache Spark
-
 ## Technologies Used
 **Python**, **PySpark**, **Power BI**
 
